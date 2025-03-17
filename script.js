@@ -1,3 +1,4 @@
+console.log("JavaScript is working!");
 var numKeys = [];
 var opns = [];
 var res = document.querySelector("#resultArea");
